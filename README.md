@@ -5,10 +5,12 @@ Along one side of a road there is a sequence of vacant plots of land. Each plot 
 
 You want to buy K acres of land to build a house. You want to find all segments of continguous plots
 (i.e., a subsection in the sequence) of whose sum is exactly K.
+
 **Input format**
 1.First line take the size of the array
 2.Next line take n size of array
-3.Thirs kine take the sum of window
+3.Third line take the sum of window
+
 **OUTPUT Format**
 Output will be index of array in the range of i,j where window sum is equal to k
 
